@@ -15,7 +15,7 @@ This is a solution to a challenge "Make Me Functional" from the website [ICodeTh
 
 ## Links
 
-[Background Changer Page](https://your-solution-url.com)
+[Display Timer Page](https://axinitm.github.io/icodethis---Display-Timer/)
 
 ## Task
 
