@@ -3,13 +3,11 @@
 This is a solution to a challenge "Make Me Functional" from the website [ICodeThis](https://icodethis.com/modes/functional/570).
 
 ## Table of contents
-- [icodethis - Display Timer](#icodethis---display-timer)
-  - [Table of contents](#table-of-contents)
-  - [Task](#task)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [Author](#author)
+- [Screenshot](#screenshot)
+- [Task](#task)
+- [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
 
 ## Task
 
