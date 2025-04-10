@@ -9,6 +9,14 @@ This is a solution to a challenge "Make Me Functional" from the website [ICodeTh
 - [Built with](#built-with)
 - [Author](#author)
 
+## Screenshot
+
+![](screenshot.png)
+
+## Links
+
+[Background Changer Page](https://your-solution-url.com)
+
 ## Task
 
 Make Me Functional
@@ -23,14 +31,6 @@ P.S. The challenge did not allow changes to the HTML and CSS code. However, I ma
 - added a button to toggle between dark and light themes;
 - integrated a dark/light toggle button using the Font Awesome library;
 - for screens with a width of 767px or less, the timer display shifts up, and the toggle button shifts down for better usability on mobile devices.
-
-## Screenshot
-
-![](screenshot.png)
-
-## Links
-
-[Background Changer Page](https://your-solution-url.com)
 
 ## Built with
 
