@@ -27,7 +27,7 @@ Implement the following functionalities:
 - it should run just like a real clock, updating the time every second.
 
 P.S. The challenge did not allow changes to the HTML and CSS code. However, I made the following modifications:
-- adjusted the font size and padding for the &gt;h1&lt; element;
+- adjusted the font size and padding for the &lt;h1&gt; element;
 - added a button to toggle between dark and light themes;
 - integrated a dark/light toggle button using the Font Awesome library;
 - for screens with a width of 767px or less, the timer display shifts up, and the toggle button shifts down for better usability on mobile devices.
